@@ -1,0 +1,14 @@
+{
+  "name": "dio-trabalhando-aplicacoes-serverless-azure",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Gerson Minichiello",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {}
+}
